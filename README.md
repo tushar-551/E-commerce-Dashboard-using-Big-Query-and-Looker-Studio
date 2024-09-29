@@ -13,6 +13,9 @@ This project leverages Google BigQuery and Looker Studio to create comprehensive
 - **Order and Customer Analysis**: Understand customer segments and purchasing patterns.
 - **E-commerce Revenue Insights**: Monitor sales trends and revenue distribution.
 
+# Link For Dashboard
+- https://lookerstudio.google.com/reporting/7d06cacc-201a-46c5-9873-a895843df9be
+
 
 ##  Images
 ![1](https://github.com/user-attachments/assets/43f5cd29-7a8b-4955-88cf-d8105d034fc9)
